@@ -1,6 +1,6 @@
 .csgoteams-parallax {
     /* The image used */
-    background-image: url("../images/csgoteams.jpeg");
+    background-image: url("../images/csgoteams/virtuspro.jpg");
     /* Set a specific height */
     height: 500px;
     /* Create the parallax scrolling effect */
@@ -8,6 +8,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
+    padding-right: 115px;
 }
 
 .csgo-parallax {
@@ -24,7 +25,7 @@
 
 .lolteams-parallax {
     /* The image used */
-    background-image: url("../images/lol.jpeg");
+    background-image: url("../images/lolteams/skt2.jpg");
     /* Set a specific height */
     height: 500px;
     /* Create the parallax scrolling effect */
@@ -32,6 +33,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: 100%;
+    padding-right: 50px;
 }
 
 .lol-parallax {
